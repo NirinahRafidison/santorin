@@ -9,7 +9,7 @@ output/
 tests/
 
 ## Auteur
-RAFIDISN
+RAFIDISON
 
 ## Version Python
 Compatible avec Python 3.10.
